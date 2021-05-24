@@ -51,7 +51,8 @@ In the controller architecture below, the outer loop is used to covert the posit
 ### IV. Controller Design and Simulation
 Control system block diagram model can be seen below in Fig. 2: Block Diagram. Two system models show each controlling x-axis, and y-axis. 
 
-![image](https://user-images.githubusercontent.com/83930919/119284179-eba77780-bbf3-11eb-980b-37c9ee95ed39.png)
+![image](https://user-images.githubusercontent.com/83930164/119407820-a6d61c00-bc99-11eb-8a83-c10f009affc0.png)
+
 
   Fig. 2: Block Diagram.
 
@@ -69,7 +70,5 @@ Fig. 3: Ball and plate simulation
 
 The below figures show the code for connecting matlab/simulink to copelliasim.
 
-![image](https://user-images.githubusercontent.com/83930164/119306942-c7fa2680-bc1f-11eb-9498-bfbb64d6589e.png)
 
-![image](https://user-images.githubusercontent.com/83930164/119308294-b285fc00-bc21-11eb-9041-446e90f06e62.png)
 

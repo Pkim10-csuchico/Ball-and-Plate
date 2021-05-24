@@ -70,5 +70,5 @@ Fig. 3: Ball and plate simulation
 
 The below figures show the code for connecting matlab/simulink to copelliasim.
 
-
+![image]!https://github.com/Pkim10-csuchico/Ball-and-Plate/blob/main/Ball_and_plate_code.jpg
 
